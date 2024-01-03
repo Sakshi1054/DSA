@@ -1,4 +1,4 @@
 # DSA
 problem solving
 <br>
-Author - Sakshi Choudhary
+Author - Sakshi (student)
